@@ -1,5 +1,5 @@
-a = 7
+a = input("Enter a number")
 if a % 2 = 0;
 	print("it is an even number")
-	else 
+else 
 	print("it is an odd number")
